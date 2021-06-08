@@ -4,7 +4,7 @@
 
 html {
     background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Geneva';
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -37,13 +37,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color: rgb(21, 120, 1);
     text-decoration: none;
 }
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: rgb(21, 120, 1);
     text-decoration: none;
 }
 
